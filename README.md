@@ -19,4 +19,4 @@ Customizable strength rules
 Visual strength indicator (optional)
 
 🛠️ Technologies Used
-[Python / JavaScript]
+Python
